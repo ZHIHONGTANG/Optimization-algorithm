@@ -1,5 +1,5 @@
 # Optimization-algorithm
-利用matlab编写，包括线性规划和非线性规划。
+优化算法：利用matlab编写，包括线性规划和非线性规划。
 
 一、MATLAB中求解线性规划问题的一般思路
 
